@@ -21,4 +21,10 @@ void main (){
   //Multilin String
   var longString =;
   print(longString);
+
+  var name1 = fristName + lastName;
+  var name2 = 'Febri' 'Karisma' 'Putri';
+
+  print(name1);
+  print(name2);
 }
